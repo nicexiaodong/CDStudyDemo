@@ -1,0 +1,6 @@
+framework module Pods_CDFirstCategoryKit_Example {
+  umbrella header "Pods-CDFirstCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

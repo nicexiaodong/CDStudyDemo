@@ -1,0 +1,6 @@
+framework module CDFirstCategoryKit {
+  umbrella header "CDFirstCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

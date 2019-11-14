@@ -1,0 +1,16 @@
+PODS:
+  - CDFirstCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - CDFirstCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  CDFirstCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CDFirstCategoryKit: 0030e9016265f1beed7b82de49b481fcf8ec63f7
+
+PODFILE CHECKSUM: 5daeeee5c2b87337dce44e60ef1f848b249b1ee2
+
+COCOAPODS: 1.8.4
